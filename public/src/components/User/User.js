@@ -14,4 +14,4 @@ function User({ user }) {
   )
 }
 
-export default connect( state => state )( User );
+export default connect(state => state)(User);
